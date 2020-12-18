@@ -9,3 +9,4 @@ y = webContent[x+10:]
 w = y.find(" ", 11)
 date = y[0:w]
 print (date)
+#This is unfinished as of 12/18/2020
