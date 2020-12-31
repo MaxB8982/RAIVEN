@@ -4,7 +4,7 @@ import urllib.request, urllib.error, urllib.parse
 
 def compute (url):
     request_str = "https://www.google.com/search?q=inurl:{0}&as_qdr=y25".format(url)
-    req = urllib.request.Request(url=request_str, headers={'User-Agent':' Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0'})
+    req = urllib.request.Request(url = request_str, headers = {'User-Agent':' Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0'})
     response = urllib.request.urlopen(req)
     webContent = str(response.read())
     x = webContent.find('class="f"')
