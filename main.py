@@ -1,8 +1,14 @@
 # https://realpython.com/python-formatted-output/
 # https://www.akc.org/dog-breeds/
+from bottle import route, run, request
 import Yearsold
 import Textfinder
-url = input ("Please copy and paste the website URL so that we can check it's credibility: ")
-date_grade = Yearsold.compute(url)
-find_text = Textfinder.isolate(url)
-print("This source got a " + str(date_grade) + " out of 10. Older sources tend to be less reliable since their information may no longer be relevent.")
+
+@route('/')
+def give_main():
+    url = request.query.url
+    date_grade = Yearsold.compute(url)
+    find_text = Textfinder.isolate(url)
+    return("This source got a " + str(date_grade) + " out of 10. Older sources tend to be less reliable since their information may no longer be relevent.")
+
+run(host='localhost', port=8080, debug=True)
