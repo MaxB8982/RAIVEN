@@ -2,7 +2,7 @@
     "name": "RAIVEN",
     "version": "1.0",
     "description": "A source credibilty checker!",
-    "permissions": ["activeTab", "declarativeContent", "storage", "tabs"],
+    "permissions": ["activeTab", "declarativeContent", "storage", "tabs", "http://localhost:8080/*"],
     "background": {
         "scripts": ["background.js"],
         "persistent": false
