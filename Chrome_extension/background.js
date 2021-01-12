@@ -12,7 +12,8 @@ chrome.browserAction.onClicked.addListener(function (tab) {
       var status = xhr.status;
       if (status === 0 || (status >= 200 && status < 400)) {
         // The request has been completed successfully
-        console.log(xhr.responseText);
+        returnedstuff = xhr.responseText
+        console.log(returnedstuff);
       } else {
         // Oh no! There has been an error with the request!
       }
