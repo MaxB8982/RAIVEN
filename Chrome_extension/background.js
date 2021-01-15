@@ -1,3 +1,21 @@
+var popuphtml = `
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            button {
+                height: 100px;
+                width: 100px;
+                outline: none;
+            }
+        </style>
+    </head>
+    <body>
+        <p>
+            puppy
+        </p>
+    </body>
+</html>`
 chrome.browserAction.onClicked.addListener(function (tab) {
   //Fired when User Clicks ICON
   console.log("Script exicuted!");
@@ -12,8 +30,9 @@ chrome.browserAction.onClicked.addListener(function (tab) {
       var status = xhr.status;
       if (status === 0 || (status >= 200 && status < 400)) {
         // The request has been completed successfully
-        returnedstuff = xhr.responseText
-        console.log(returnedstuff);
+        var responded_stuff = xhr.responseText
+        console.log(responded_stuff);
+        var newhtml = popuphtml.replace('puppy', responded_stuff)
       } else {
         // Oh no! There has been an error with the request!
       }
