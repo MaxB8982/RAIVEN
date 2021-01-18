@@ -1,17 +1,15 @@
-
-  a  
-   abandoned
-  abdominal
-  abhorrent
-  abiding
-  abject
-  able  
-  able-bodied
-  abnormal
-   abounding
-   abrasive
-    abrupt
-   absent
+abandoned
+abdominal
+abhorrent
+abiding
+abject
+able  
+able-bodied
+abnormal
+abounding
+abrasive
+abrupt
+absent
    absentminded
    absolute
    absorbed
@@ -3491,1355 +3489,1279 @@
  shabby 
  shaded
  shadowed
- shadowy
- shady 
- shaggy 
- shaky 
- shallow 
- shamefaced
- shameful
- shameless
- shapeless
- shapely
- sharp 
- sharpened
- shattered
- shattering
- sheepish
- sheer 
- sheltered
- shifty 
- shimmering
- shining
- shiny 
- shivering
- shivery
- shocked
- shocking
- shoddy 
- short 
- short-lived
- shortsighted
- short-tempered
- short-term
- showy 
- shrewd 
- shrieking
- shrill 
- shut
- shy 
- sick 
- sickened
- sickening
- sickly 
- side-splitting
- signed
- significant
- silent
- silky 
- silly 
- silver
- silver-tongued
- simian
- similar
- simple 
- simpleminded
- simplified
- simplistic
- simultaneous
- sincere 
- sinful
- single
- single-minded
- singular
- sinister
- sinuous
- sisterly
- six 
- sixth 
- sizable
- sizzling
- skeptical
- sketchy 
- skilled
- skillful
- skimpy 
- skin-deep
- skinny 
- skittish
- sky-blue
- slanderous
- slanted
- slanting
- sleek 
- sleeping
- sleepless
- sleepy 
- slender
- slick 
- slight 
- slim 
- slimy 
- slippery 
- sloped
- sloping
- sloppy 
- slothful
- slow 
- slow-moving
- sluggish
- slushy
- sly 
- small 
- smaller
- smallest
- small-minded
- small-scale
- small-time
- small-town
- smarmy
- smart 
- smarter
- smartest
- smashing
- smeared
- smelly 
- smiling
- smoggy 
- smoked
- smoky
- smooth 
- smothering
- smudged
- smug
- snapping
- snappish
- snappy 
- snarling
- sneaky 
- snide
- snippy
- snobbish
- snoopy
- snooty 
- snoring
- snotty 
- snow-white
- snug 
- snuggly
- soaked
- soaking
- soaking wet
- soaring
- sober
- sociable
- social
- socialist
- sociological
- soft 
- softhearted
- soggy 
- solar
- soldierly
- sole
- solemn
- solicitous
- solid
- solitary
- somatic
- somber
- some , 
- sonic
- sonly
- soothed
- soothing
- sophisticated
- sordid
- sore 
- sorrowful
- sorry 
- soulful
- soulless
- soundless
- sour 
- south
- southeasterly
- southern
- southwestern
- spacious
- spare
- sparing
- sparkling
- sparkly
- sparse 
- spasmodic
- spastic
- spatial
- spattered
- special
- specialist
- specialized
- specific
- speckled
- spectacular
- spectral
- speculative
- speechless
- speedy 
- spellbinding
- spendthrift
- spherical
- spicy 
- spiffy 
- spiky 
- spinal
- spineless
- spiral
- spiraled
- spirited
- spiritless
- spiritual
- spiteful
- splashing
- splashy
- splattered
- splendid
- splintered
- spoiled
- spoken
- spongy
- spontaneous
- spooky 
- sporadic
- sporting
- sportsmanly
- spotless
- spotted
- spotty
- springy
- sprite
- spry 
- spurious
- squalid
- squandered
- square 
- squashed
- squashy
- squatting
- squawking
- squealing
- squeamish
- squeezable
- squiggly 
- squirming
- squirrelly
- stable
- stackable
- stacked
- staggering
- stagnant
- stained
- stale 
- stanch
- standard
- standing
- standoffish
- starched
- star-crossed
- stark 
- startled
- startling
- starving
- stately 
- static
- statistical
- statuesque
- status 
- statutory
- staunch 
- steadfast
- steady 
- stealth
- steaming
- steamy
- steel 
- steely
- steep 
- stereophonic
- stereotyped
- stereotypical
- sterile
- stern 
- sticky 
- stiff 
- stifled
- stifling
- stigmatic
- still 
- stilled
- stilted
- stimulating
- stinging
- stingy 
- stinking
- stinky
- stirring
- stock
- stodgy 
- stoic
- stony
- stormy 
- stout
- straggly 
- straight 
- straightforward
- stranded
- strange 
- strategic
- streaked
- street 
- strenuous
- stressful
- stretchy
- strict 
- strident
- striking
- stringent
- striped
- strong 
- stronger
- strongest
- structural
- stubborn
- stubby 
- stuck-up
- studied
- studious
- stuffed
- stuffy 
- stumbling
- stunned
- stunning
- stupendous
- sturdy 
- stuttering
- stylish
- stylistic
- suave
- subconscious
- subdued
- subject
- subjective
- sublime
- subliminal
- submissive
- subordinate
- subsequent
- subservient
- substantial
- substantiated
- substitute
- subterranean
- subtitled
- subtle 
- subversive
- successful
- successive
- succinct
- succulent
- such 
- sudden
- suffering
- sufficient
- sugary
- suggestive
- suitable
- sulky 
- sullen
- sumptuous
- sunny 
- super
- superabundant
- superb
- supercilious
- superficial
- superhuman
- superior
- superlative
- supernatural
- supersensitive
- supersonic
- superstitious
- supple
- supportive
- supposed
- suppressive
- supreme
- sure 
- sure-footed
- surgical
- surly 
- surmountable
- surprised
- surprising
- surrealistic
- survivable
- susceptible
- suspected
- suspicious
- sustainable
- swaggering
- swanky 
- swaying
- sweaty 
- sweeping
- sweet 
- sweltering
- swift 
- swimming
- swinish
- swishing
- swollen
- swooping
- syllabic
- syllogistic
- symbiotic
- symbolic
- symmetrical
- sympathetic
- symptomatic
- synergistic
- synonymous
- syntactic
- synthetic
- systematic
- taboo
- tacit
- tacky 
- tactful
- tactical
- tactless
- tactual
- tainted
- take-charge
- talented
- talkative
- tall 
- taller
- tallest
- tame 
- tamed
- tan
- tangential
- tangible
- tangled
- tangy 
- tanned
- tantalizing
- tapered
- tardy 
- targeted
- tarnished
- tart 
- tasteful
- tasteless
- tasty 
- tattered
- taunting
- taut 
- taxing
- teachable
- tearful
- tearing
- teasing
- technical
- technological
- tectonic
- tedious
- teenage
- teensy 
- teeny 
- teeny-tiny 
- telegraphic
- telekinetic
- telepathic
- telephonic
- telescopic
- telling
- temperamental
- temperate
- tempestuous
- temporary
- tempted
- tempting
- ten 
- tenable
- tenacious
- tender
- tenderhearted
- ten-minute
- tense
- tentative
- tenth 
- tenuous
- tepid
- terminal
- terrestrial
- terrible
- terrific
- terrified
- terrifying
- territorial
- terse 
- tested
- testy 
- tetchy
- textual
- textural
- thankful
- thankless
- that 
- the 
- theatrical
- their 
- thematic
- theological
- theoretical
- therapeutic
- thermal
- these 
- thick 
- thievish
- thin 
- thinkable
- third 
- thirsty 
- this 
- thorny 
- thorough
- those 
- thoughtful
- thoughtless
- thrashed
- threatened
- threatening
- three 
- thriftless
- thrifty 
- thrilled
- thrilling
- throbbing
- thumping
- thundering
- thunderous
- ticking
- tickling
- ticklish
- tidal
- tidy 
- tight 
- tightfisted
- time 
- timeless
- timely 
- timid
- timorous
- tiny 
- tipsy
- tired
- tireless
- tiresome
- tiring
- tolerable
- tolerant
- tonal
- tone-deaf
- toneless
- toothsome
- toothy 
- top
- topical
- topographical
- tormented
- torpid
- torrential
- torrid
- torturous
- total
- touched
- touching
- touchy
- tough 
- towering
- toxic
- traditional
- tragic
- trainable
- trained
- training
- traitorous
- tranquil
- transcendent
- transcendental
- transformational
- transformative
- transformed
- transient
- transitional
- transitory
- translucent
- transparent
- transplanted
- trapped
- trashed
- trashy 
- traumatic
- treacherous
- treasonable
- treasonous
- treasured
- treatable
- tremendous
- tremulous
- trenchant
- trendy 
- triangular
- tribal
- trick 
- tricky 
- trim 
- tripping
- trite
- triumphant
- trivial
- tropical
- troubled
- troublesome
- troubling
- truculent
- true 
- trusted
- trustful
- trusting
- trustworthy
- trusty 
- truthful
- trying
- tumultuous
- tuneful
- tuneless
- turbulent
- twinkling
- twinkly
- twisted
- twitchy 
- two 
- typical
- tyrannical
- tyrannous
- ubiquitous
- ugly 
- ultimate
- ultraconservative
- ultrasensitive
- ultrasonic
- ultraviolet
- unabashed
- unabated
- unable
- unacceptable
- unaccompanied
- unaccountable
- unaccustomed
- unacknowledged
- unadorned
- unadulterated
- unadventurous
- unadvised
- unaffected
- unaffordable
- unafraid
- unaggressive
- unaided
- unalienable
- unalterable
- unaltered
- unambiguous
- unanimous
- unannounced
- unanswerable
- unanticipated
- unapologetic
- unappealing
- unappetizing
- unappreciative
- unapproachable
- unashamed
- unassailable
- unassertive
- unassisted
- unattached
- unattainable
- unattractive
- unauthorized
- unavailable
- unavailing
- unavoidable
- unbalanced
- unbearable
- unbeatable
- unbeaten
- unbecoming
- unbelievable
- unbelieving
- unbendable
- unbending
- unbiased
- unblemished
- unblinking
- unblushing
- unbounded
- unbreakable
- unbridled
- uncanny
- uncaring
- unceasing
- unceremonious
- uncertain
- unchangeable
- unchanging
- uncharacteristic
- uncharitable
- uncharted
- uncivil
- uncivilized
- unclassified
- unclean
- uncluttered
- uncomely
- uncomfortable
- uncommitted
- uncommon
- uncommunicative
- uncomplaining
- uncomprehending
- uncompromising
- unconcerned
- unconditional
- unconfirmed
- unconquerable
- unconscionable
- unconscious
- unconstitutional
- unconstrained
- unconstructive
- uncontainable
- uncontrollable
- unconventional
- unconvinced
- unconvincing
- uncooked
- uncooperative
- uncoordinated
- uncouth
- uncovered
- uncreative
- uncritical
- undamaged
- undated
- undaunted
- undeclared
- undefeated
- undefined
- undemocratic
- undeniable
- undependable
- underdeveloped
- underfunded
- underhanded
- underprivileged
- understandable
- understanding
- understated
- understood
- undeserved
- undesirable
- undetected
- undeterred
- undeveloped
- undeviating
- undifferentiated
- undignified
- undiminished
- undiplomatic
- undisciplined
- undiscovered
- undisguised
- undisputed
- undistinguished
- undivided
- undoubted
- unearthly
- uneasy
- uneducated
- unemotional
- unemployed
- unencumbered
- unending
- unendurable
- unenforceable
- unenthusiastic
- unenviable
- unequal
- unequaled
- unequivocal
- unerring
- uneven
- uneventful
- unexceptional
- unexcited
- unexpected
- unexplainable
- unexplored
- unexpressive
- unfailing
- unfair
- unfaithful
- unfaltering
- unfamiliar
- unfashionable
- unfathomable
- unfavorable
- unfeeling
- unfettered
- unfilled
- unflagging
- unflappable
- unflattering
- unflinching
- unfocused
- unforeseeable
- unforgettable
- unforgivable
- unforgiving
- unfortunate
- unfriendly
- unfulfilled
- ungallant
- ungenerous
- ungentlemanly
- unglamorous
- ungraceful
- ungracious
- ungrateful
- unguarded
- unhandsome
- unhappy 
- unharmed
- unhealthy
- unheated
- unheeded
- unhelpful
- unhesitating
- unhurried
- uniform
- unilateral
- unimaginable
- unimaginative
- unimpeachable
- unimpeded
- unimpressive
- unincorporated
- uninformed
- uninhabitable
- uninhibited
- uninitiated
- uninjured
- uninspired
- uninsurable
- unintelligent
- unintelligible
- unintended
- unintentional
- uninterested
- uninterrupted
- uninvited
- unique
- united
- universal
- unjust
- unjustifiable
- unkempt
- unkind
- unknowing
- unknown
- unlawful
- unlicensed
- unlikable
- unlikely 
- unlivable
- unloved
- unlucky 
- unmanageable
- unmanly
- unmanned
- unmarketable
- unmasked
- unmatched
- unmemorable
- unmentionable
- unmerciful
- unmistakable
- unmitigated
- unmodified
- unmotivated
- unnatural
- unnecessary
- unnerved
- unnerving
- unnoticeable
- unobserved
- unobtainable
- unobtrusive
- unofficial
- unopened
- unopposed
- unorthodox
- unostentatious
- unpalatable
- unpardonable
- unpersuasive
- unperturbed
- unplanned
- unpleasant
- unprecedented
- unpredictable
- unpretentious
- unprincipled
- unproductive
- unprofessional
- unprofitable
- unpromising
- unpronounceable
- unprovoked
- unqualified
- unquantifiable
- unquenchable
- unquestionable
- unquestioned
- unquestioning
- unraveled
- unreachable
- unreadable
- unrealistic
- unrealized
- unreasonable
- unreceptive
- unrecognizable
- unrecognized
- unredeemable
- unregulated
- unrelenting
- unreliable
- unremarkable
- unremitting
- unrepentant
- unrepresentative
- unrepresented
- unreserved
- unrespectable
- unresponsive
- unrestrained
- unripe
- unrivaled
- unromantic
- unruffled
- unruly 
- unsafe
- unsalvageable
- unsatisfactory
- unsatisfied
- unscheduled
- unscholarly
- unscientific
- unscrupulous
- unseasonable
- unseemly
- unselfish
- unsettled
- unsettling
- unshakable
- unshapely
- unsightly
- unsigned
- unsinkable
- unskilled
- unsociable
- unsolicited
- unsolvable
- unsolved
- unsophisticated
- unsound
- unsparing
- unspeakable
- unspoiled
- unstable
- unstated
- unsteady
- unstoppable
- unstressed
- unstructured
- unsubstantial
- unsubstantiated
- unsuccessful
- unsuitable
- unsuited
- unsupervised
- unsupported
- unsure
- unsurpassable
- unsurpassed
- unsurprising
- unsuspected
- unsuspecting
- unsustainable
- unsympathetic
- unsystematic
- untainted
- untamable
- untamed
- untapped
- untenable
- untested
- unthinkable
- unthinking
- untidy
- untimely
- untitled
- untouchable
- untraditional
- untrained
- untried
- untroubled
- untrustworthy
- untruthful
- unused
- unusual
- unverified
- unwary
- unwashed
- unwatchable
- unwavering
- unwholesome
- unwieldy
- unwilling
- unwise
- unwitting
- unworkable
- unworldly
- unworthy
- unwritten
- unyielding
- upbeat
- upmost
- upper
- uppity
- upright
- uproarious
- upset
- upsetting
- upstairs
- uptight
- up-to-date
- up-to-the-minute
- upward
- urbane
- urgent
- usable
- used
- useful
- useless
- usual
- utilitarian
- utopian
- utter
- uttermost
- vacant
- vacillating
- vacuous
- vagabond
- vagrant
- vague 
- vain 
- valiant
- valid
- valorous
- valuable
- vanishing
- vapid
- vaporous
- variable
- varied
- various
- varying
- vast
- vegetable 
- vegetarian
- vegetative
- vehement
- velvety
- venal
- venerable
- vengeful
- venomous
- venturesome
- venturous
- veracious
- verbal
- verbose
- verdant
- verifiable
- verified
- veritable
- vernacular
- versatile
- versed
- vertical
- very
- vexed
- vexing
- viable
- vibrant
- vibrating
- vicarious
- vicious
- victorious
- vigilant
- vigorous
- vile 
- villainous
- vindictive
- vinegary
- violent
- violet
- viperous
- viral
- virtual
- virtuous
- virulent
- visceral
- viscous
- visible
- visionary
- visual
- vital
- vitriolic
- vivacious
- vivid
- vocal
- vocational
- voiceless
- volatile
- volcanic
- voluminous
- voluntary
- voluptuous
- voracious
- vulgar
- vulnerable
- wacky 
- wailing
- waiting
- wakeful
- wandering
- wanting
- wanton
- warlike
- warm 
- warmest
- warning
- warring
- wary 
- waspish
- waste
- wasted
- wasteful
- watchful
- waterlogged
- waterproof
- watertight
- watery 
- wavering
- wax 
- waxen
- weak 
- weakened
- weak-willed
- wealthy 
- wearisome
- weary 
- wee
- weedy 
- week-long
- weekly
- weightless
- weighty
- weird 
- welcoming
- well
- well-adjusted
- well-argued
- well-aware
- well-balanced
- well-behaved
- well-built
- well-conceived
- well-considered
- well-crafted
- well-deserved
- well-developed
- well-done
- well-dressed
- well-educated
- well-equipped
- well-established
- well-founded
- well-groomed
- well-heeled
- well-honed
- well-informed
- well-intentioned
- well-kempt
- well-known
- well-liked
- well-lit
- well-made
- well-maintained
- well-mannered
- well-meaning
- well-off
- well-placed
- well-planned
- well-prepared
- well-qualified
- well-read
- well-received
- well-rounded
- well-spoken
- well-suited
- well-thought-of
- well-thought-out
- well-to-do
- well-traveled
- well-used
- well-versed
- well-worn
- well-written
- west
- western
- wet 
- what 
- wheezing
- which 
- whimpering
- whimsical
- whining
- whispering
- whistling
- white 
- whole
- wholehearted
- wholesale
- wholesome
- whooping
- whopping
- whose 
- wicked 
- wide 
- wide-eyed
- wide-ranging
- widespread
- wiggly 
- wild 
- willful
- willing
- wily
- windy 
- winning
- winsome
- winter
- wintery
- wiry
- wise 
- wishful
- wispy 
- wistful
- withering
- witless
- witty 
- wizardly
- wobbly 
- woeful
- wolfish
- wonderful
- wondrous
- wonted
- wood 
- wooden
- wooing
- wool 
- woolen
- woozy 
- wordless
- wordy 
- work
- workable
- working
- work-oriented
- worldly 
- worn
- worn down
- worn out
- worried
- worrisome
- worrying
- worse
- worshipful
- worst
- worth
- worthless
- worthwhile
- worthy 
- wounding
- wrathful
- wrenching
- wretched
- wriggling
- wriggly
- wrinkled
- wrinkly
- written
- wrong
- wrongful
- wry
- yawning
- yearly
- yearning
- yellow
- yelping
- yielding
- young 
- younger
- youngest
- youthful
- yummy 
- zany 
- zealous
- zestful
- zesty 
- zippy
- zonked
- zoological
+shadowy
+shady 
+shaggy 
+shaky 
+shallow 
+shamefaced
+shameful
+shameless
+shapeless
+shapely
+sharp 
+sharpened
+shattered
+shattering
+sheepish
+sheer 
+sheltered
+shifty 
+shimmering
+shining
+shiny 
+shivering
+shivery
+shocked
+shocking
+shoddy 
+short 
+short-lived
+shortsighted
+short-tempered
+short-term
+showy 
+shrewd 
+shrieking
+shrill 
+shy 
+sick 
+sickened
+sickening
+sickly 
+side-splitting
+signed
+significant
+silent
+silky 
+silly 
+silver-tongued
+simian
+similar
+simple 
+simpleminded
+simplified
+simplistic
+simultaneous
+sincere 
+sinful
+single-minded
+singular
+sinister
+sinuous
+sisterly
+sizable
+sizzling
+skeptical
+sketchy 
+skilled
+skillful
+skimpy 
+skin-deep 
+skittish
+slanderous
+slanting
+sleek 
+sleeping
+sleepless
+sleepy 
+slender
+slick 
+slight 
+slim 
+slimy 
+slippery 
+sloping
+sloppy 
+slothful
+slow-moving
+sluggish
+slushy
+sly 
+small 
+smaller
+smallest
+small-minded
+small-scale
+small-time
+small-town
+smarmy
+smart 
+smarter
+smartest
+smashing
+smeared
+smelly 
+smoggy 
+smoky
+smooth 
+smothering
+smudged
+smug
+snapping
+snappish
+snappy 
+snarling
+sneaky 
+snide
+snippy
+snobbish
+snoopy
+snooty 
+snoring
+snotty 
+snug 
+snuggly
+soaked
+soaking
+soaking wet
+soaring
+sober
+sociable
+social
+socialist
+sociological
+soft 
+softhearted
+soggy 
+solar
+soldierly
+sole
+solemn
+solicitous
+solitary
+somatic
+somber
+sonly
+soothed
+soothing
+sophisticated
+sordid
+sore 
+sorrowful
+sorry 
+soulful
+soulless
+sondless
+sour
+spacious
+spare
+sparing
+sparkling
+sparkly
+sparse 
+spasmodic
+spatial
+spattered
+special
+specialist
+specialized
+specific
+speckled
+spectacular
+spectral
+speculative
+speechless
+speedy 
+spellbinding
+spendthrift
+spherical
+spiffy 
+spiky 
+spinal
+spineless
+spirited
+spiritless
+spiritual
+spiteful
+splashing
+splashy
+splattered
+splendid
+splintered
+spoiled
+spoken
+spongy
+spontaneous
+spooky 
+sporadic
+sporting
+sportsmanly
+spotless
+spotted
+spotty
+springy
+sprite
+spry 
+spurious
+squalid
+squandered
+squashed
+squashy
+squatting
+squawking
+squealing
+squeamish
+squeezable
+squiggly 
+squirming
+squirrelly
+stable
+staggering
+stained
+stale 
+stanch
+standard
+standoffish
+starched
+star-crossed
+stark 
+startled
+startling
+starving
+stately 
+statuesque
+statutory
+staunch 
+steadfast
+steady 
+stealth
+steaming
+steamy
+steely
+steep 
+stereophonic
+stereotyped
+stereotypical
+stern 
+sticky 
+stiff 
+stifled
+stifling
+stilled
+stilted
+stimulating
+stinging
+stingy 
+stinking
+stinky
+stirring
+stock
+stodgy 
+stoic
+stony
+stormy 
+stout
+straggly 
+straightforward
+stranded
+strange 
+strategic
+streaked
+street 
+strenuous
+stressful
+stretchy
+strict 
+strident
+striking
+stringent
+striped
+strong 
+stronger
+strongest
+structural
+stubborn
+stubby 
+stuck-up
+studied
+studious
+stuffed
+stuffy 
+stumbling
+stunned
+stunning
+stupendous
+sturdy 
+stuttering
+stylish
+stylistic
+suave
+subconscious
+subdued
+subject
+subjective
+sublime
+subliminal
+submissive
+subordinate
+subsequent
+subservient
+substantial
+substantiated
+substitute
+subtitled
+subtle 
+subversive
+successful
+successive
+succinct
+succulent
+sudden
+suffering
+sufficient
+sugary
+suggestive
+suitable
+sulky 
+sullen
+sumptuous
+sunny 
+super
+superabundant
+superb
+supercilious
+superficial
+superhuman
+superior
+superlative
+supernatural
+supersensitive
+superstitious
+supple
+supportive
+supposed
+suppressive
+supreme
+sure-footed
+surgical
+surly 
+surmountable
+surprised
+surprising
+surrealistic
+survivable
+susceptible
+suspected
+sus
+suspicious
+sustainable
+swaggering
+swanky 
+swaying
+sweaty 
+sweeping
+sweet 
+sweltering
+swift 
+swinish
+swishing
+swooping
+syllabic
+syllogistic
+symbiotic
+symbolic
+symmetrical
+sympathetic
+symptomatic
+synergistic
+synonymous
+syntactic
+systematic
+taboo
+tacit
+tacky 
+tactful
+tactical
+tactless
+tactual
+tainted
+take-charge
+talented
+talkative
+tallest
+tame 
+tamed
+tan
+tangential
+tangible
+tangled
+tangy 
+tanned
+tantalizing
+tapered
+tardy 
+targeted
+tarnished
+tart 
+tasteful
+tasteless
+tasty 
+tattered
+taunting
+taut 
+teachable
+tearful
+tearing
+teasing
+tedious
+teenage
+teensy 
+teeny 
+teeny-tiny 
+telegraphic
+telekinetic
+telepathic
+telephonic
+telescopic
+telling
+temperamental
+temperate
+tempestuous
+temporary
+tempted
+tempting
+tenable
+tenacious
+tender
+tenderhearted
+tense
+tentative
+tenuous
+tepid
+terminal
+terrestrial
+terrible
+terrific
+terrified
+terrifying
+territorial
+terse 
+tested
+testy 
+tetchy
+textual
+textural
+thankful
+thankless
+theatrical
+thematic
+theological
+theoretical
+therapeutic
+thermal
+thick 
+thievish
+thin 
+thinkable
+thirsty 
+thorny 
+thorough
+those 
+thoughtful
+thoughtless
+thrashed
+threatened
+threatening
+thriftless
+thrifty 
+thrilled
+thrilling
+throbbing
+thumping
+thundering
+thunderous
+ticking
+tickling
+ticklish
+tidal
+tidy 
+tight 
+tightfisted
+time 
+timeless
+timely 
+timid
+timorous
+tiny 
+tipsy
+tired
+tireless
+tiresome
+tiring
+tolerable
+tolerant
+tonal
+tone-deaf
+toneless
+toothsome
+toothy 
+topical
+topographical
+tormented
+torpid
+torrential
+torrid
+torturous
+touched
+touching
+touchy
+tough 
+towering
+traditional
+tragic
+trainable
+traitorous
+tranquil
+transcendent
+transcendental
+transformational
+transformative
+transformed
+transient
+transitional
+transitory
+translucent
+transparent
+trapped
+trashed
+trashy 
+traumatic
+treacherous
+treasonable
+treasonous
+treasured
+treatable
+tremendous
+tremulous
+trenchant
+trendy 
+trick 
+tricky 
+trim 
+tripping
+trite
+triumphant
+trivial
+troubled
+troublesome
+troubling
+truculent
+true 
+trusted
+trustful
+trusting
+trustworthy
+trusty 
+truthful
+trying
+tumultuous
+tuneful
+tuneless
+turbulent
+twinkling
+twinkly
+twisted
+twitchy 
+typical
+tyrannical
+tyrannous
+ubiquitous
+ugly 
+ultimate
+ultraconservative
+ultrasensitive
+ultrasonic
+unabashed
+unabated
+unable
+unacceptable
+unaccompanied
+unaccountable
+unaccustomed
+unacknowledged
+unadorned
+unadulterated
+unadventurous
+unadvised
+unaffected
+unaffordable
+unafraid
+unaggressive
+unaided
+unalienable
+unalterable
+unaltered
+unambiguous
+unanimous
+unannounced
+unanswerable
+unanticipated
+unapologetic
+unappealing
+unappetizing
+unappreciative
+unapproachable
+unashamed
+unassailable
+unassertive
+unassisted
+unattached
+unattainable
+unattractive
+unavailable
+unavailing
+unavoidable
+unbalanced
+unbearable
+unbeatable
+unbeaten
+unbecoming
+unbelievable
+unbelieving
+unbendable
+unbending
+unbiased
+unblemished
+unblinking
+nblushing
+unbounded
+unbreakable
+unbridled
+uncanny
+uncaring
+unceasing
+unceremonious
+uncertain
+unchangeable
+unchanging
+uncharacteristic
+uncharitable
+uncharted
+uncivil
+uncivilized
+unclassified
+unclean
+uncluttered
+uncomely
+uncomfortable
+uncommitted
+uncommon
+uncommunicative
+uncomplaining
+uncomprehending
+uncompromising
+unconcerned
+unconditional
+unconfirmed
+unconquerable
+unconscionable
+unconscious
+unconstitutional
+unconstrained
+unconstructive
+uncontainable
+uncontrollable
+unconventional
+unconvinced
+unconvincing
+uncooked
+uncooperative
+uncoordinated
+uncouth
+uncovered
+uncreative
+uncritical
+undamaged
+undated
+undaunted
+undeclared
+undefeated
+undefined
+undemocratic
+undeniable
+undependable
+underdeveloped
+underfunded
+underhanded
+underprivileged
+understandable
+understanding
+understated
+understood
+undeserved
+undesirable
+undetected
+undeterred
+undeveloped
+undeviating
+undifferentiated
+undignified
+undiminished
+undiplomatic
+undisciplined
+undiscovered
+undisguised
+undisputed
+undistinguished
+undivided
+undoubted
+unearthly
+uneasy
+uneducated
+unemotional
+unemployed
+unencumbered
+unending
+unendurable
+unenforceable
+unenthusiastic
+unenviable
+unequal
+unequaled
+unequivocal
+unerring
+uneven
+uneventful
+unexceptional
+unexcited
+unexpected
+unexplainable
+unexpressive
+unfailing
+unfair
+unfaithful
+unfaltering
+unfamiliar
+unfashionable
+unfathomable
+unfavorable
+unfeeling
+unfettered
+unfilled
+unflagging
+unflappable
+unflattering
+unflinching
+unfocused
+unforeseeable
+unforgettable
+unforgivable
+unforgiving
+unfortunate
+unfriendly
+unfulfilled
+ungallant
+ungenerous
+ungentlemanly
+unglamorous
+ungraceful
+ungracious
+ungrateful
+unguarded
+unhandsome
+unhappy 
+unharmed
+unhealthy
+unheated
+unheeded
+unhelpful
+unhesitating
+unhurried
+uniform
+unilateral
+unimaginable
+unimaginative
+nimpeachable
+unimpeded
+unimpressive
+unincorporated
+uninformed
+uninhabitable
+uninhibited
+uninitiated
+uninjured
+uninspired
+uninsurable
+unintelligent
+unintelligible
+unintended
+unintentional
+uninterested
+uninterrupted
+uninvited
+unique
+united
+universal
+unjust
+unjustifiable
+unkempt
+unkind
+unknowing
+unknown
+unlawful
+unlicensed
+unlikable
+unlikely 
+unlivable
+unloved
+unlucky 
+unmanageable
+unmanly
+unmanned
+unmarketable
+unmasked
+unmatched
+unmemorable
+unmentionable
+unmerciful
+unmistakable
+unmitigated
+unmodified
+unmotivated
+unnatural
+unnecessary
+unnerved
+unnerving
+unnoticeable
+unobserved
+unobtainable
+unobtrusive
+unofficial
+unopened
+unopposed
+unorthodox
+unostentatious
+unpalatable
+unpardonable
+unpersuasive
+unperturbed
+unplanned
+unpleasant
+unprecedented
+unpredictable
+unpretentious
+unprincipled
+unproductive
+unprofessional
+unprofitable
+unpromising
+unpronounceable
+unprovoked
+unqualified
+unquantifiable
+unquenchable
+unquestionable
+unquestioned
+unquestioning
+unraveled
+unreachable
+unreadable
+unrealistic
+unrealized
+unreasonable
+unreceptive
+unrecognizable
+unrecognized
+unredeemable
+unregulated
+unrelenting
+unreliable
+unremarkable
+unremitting
+unrepentant
+unrepresentative
+unrepresented
+unreserved
+unrespectable
+unresponsive
+unrestrained
+unripe
+unrivaled
+unromantic
+unruffled
+unruly 
+unsafe
+unsalvageable
+unsatisfactory
+unsatisfied
+unscheduled
+unscholarly
+unscientific
+unscrupulous
+unseasonable
+unseemly
+unselfish
+unsettled
+unsettling
+unshakable
+unshapely
+unsightly
+unsigned
+unsinkable
+unskilled
+unsociable
+unsolicited
+unsolvable
+unsolved
+unsophisticated
+unsound
+unsparing
+unspeakable
+unspoiled
+unstable
+unstated
+unsteady
+unstoppable
+unstressed
+unstructured
+unsubstantial
+unsubstantiated
+unsuccessful
+unsuitable
+unsuited
+unsupervised
+unsupported
+unsure
+unsurpassable
+unsurpassed
+unsurprising
+unsuspected
+unsuspecting
+unsustainable
+unsympathetic
+unsystematic
+untainted
+untamable
+untamed
+untapped
+untenable
+untested
+unthinkable
+unthinking
+untidy
+untimely
+untitled
+untouchable
+untraditional
+untrained
+untried
+untroubled
+untrustworthy
+untruthful
+unused
+unusual
+unverified
+unwary
+unwashed
+unwatchable
+unwavering
+unwholesome
+unwieldy
+unwilling
+unwise
+unwitting
+unworkable
+unworldly
+unworthy
+unwritten
+unyielding
+upbeat
+upmost
+upper
+uppity
+upright
+uproarious
+upset
+upsetting
+upstairs
+uptight
+up-to-date
+up-to-the-minute
+upward
+urbane
+urgent
+usable
+useful
+useless
+usual
+utilitarian
+utopian
+utter
+uttermost
+vacant
+vacillating
+vacuous
+vagabond
+vagrant
+vague 
+vain 
+valiant
+valid
+valorous
+valuable
+vanishing
+vapid
+vaporous
+variable
+varied
+various
+varying
+vast
+vegetable
+vegetative
+vehement
+velvety
+venal
+venerable
+vengeful
+venomous
+venturesome
+venturous
+veracious
+verbal
+verbose
+verdant
+verifiable
+verified
+veritable
+vernacular
+versatile
+versed
+vertical
+vexed
+vexing
+viable
+vibrant
+vibrating
+vicarious
+vicious
+victorious
+vigilant
+vigorous
+vile 
+villainous
+vindictive
+vinegary
+violent
+violet
+viperous
+viral
+virtual
+virtuous
+virulent
+visceral
+viscous
+visible
+visionary
+visual
+vital
+vitriolic
+vivacious
+vivid
+vocal
+vocational
+voiceless
+volatile
+volcanic
+voluminous
+voluntary
+voluptuous
+voracious
+vulgar
+vulnerable
+wacky 
+wailing
+waiting
+wakeful
+wandering
+wanting
+wanton
+warlike
+warm 
+warmest
+warning
+warring
+wary 
+waspish
+waste
+wasted
+wasteful
+watchful
+waterlogged
+waterproof
+watertight
+watery 
+wavering
+wax 
+waxen weak 
+weakened
+weak-willed
+wealthy 
+wearisome
+weary 
+wee
+weedy 
+week-long
+weekly
+weightless
+weighty
+weird 
+welcoming
+well
+well-adjusted
+well-argued
+well-aware
+well-balanced
+well-behaved
+well-built
+well-conceived
+well-considered
+well-crafted
+well-deserved
+well-developed
+well-done
+well-dressed
+well-educated
+well-equipped
+well-established
+well-founded
+well-groomed
+well-heeled
+well-honed
+well-informed
+well-intentioned
+well-kempt
+well-known
+well-liked
+well-lit
+well-made
+well-maintained
+well-mannered
+well-meaning
+well-off
+well-placed
+well-planned
+well-prepared
+well-qualified
+well-read
+well-received
+well-rounded
+well-spoken
+well-suited
+well-thought-of
+well-thought-out
+well-to-do
+well-traveled
+well-used
+well-versed
+well-worn
+well-written
+west
+western
+wet 
+what 
+wheezing
+which 
+whimpering
+whimsical
+whining
+whispering
+whistling
+white 
+whole
+wholehearted
+wholesale
+wholesome
+whooping
+whopping
+whose 
+wicked 
+wide 
+wide-eyed
+wide-ranging
+widespread
+wiggly 
+wild 
+willful
+willing
+wily
+windy 
+winning
+winsome
+winter
+wintery
+wiry
+wise 
+wishful
+wispy 
+wistful
+withering
+witless
+witty 
+wizardly
+wobbly 
+woeful
+wolfish
+wonderful
+wondrous
+wonted
+wood 
+wooden
+wooing
+wool 
+woolen
+woozy 
+wordless
+wordy 
+work
+workable
+working
+work-oriented
+worldly 
+worn
+worn down
+worn out
+worried
+worrisome
+worrying
+worse
+worshipful
+worst
+worth
+worthless
+worthwhile
+worthy 
+wounding
+wrathful
+wrenching
+wretched
+wriggling
+wriggly
+wrinkled
+wrinkly
+written
+wrong
+wrongful
+wry
+yawning
+yearly
+yearning
+yellow
+yelping
+yielding
+young 
+younger
+youngest
+youthful
+yummy 
+zany 
+zealous
+zestful
+zesty 
+zippy
+zonked
+zoological
 Hoax
 Fake
 False 
