@@ -33,6 +33,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
         var responded_stuff = xhr.responseText
         console.log(responded_stuff);
         var newhtml = popuphtml.replace('puppy', responded_stuff)
+        alert(newhtml)
       } else {
         // Oh no! There has been an error with the request!
       }
