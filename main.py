@@ -1,6 +1,6 @@
 # https://realpython.com/python-formatted-output/
 # https://www.akc.org/dog-breeds/
-#The error it returns on a failed request "InvalidStateError"
+#https://www.cnn.com/2021/01/19/politics/national-guard-removed-inauguration-duty/index.html
 from bottle import route, run, request
 import Yearsold
 import Textfinder
