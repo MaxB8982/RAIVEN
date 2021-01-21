@@ -3452,43 +3452,43 @@ absent
  self-confident
  self-directed
  self-disciplined
- self-effacing
- self-indulgent
- self-interested
- selfish
- selfless
- self-reliant
- self-respect
- self-satisfied
- sellable
- semiconscious
- semiofficial
- semiprecious
- semiprofessional
- senior
- sensational
- senseless
- sensible
- sensitive
- sensual
- sensuous
- sentimental
- separate
- sequential
- serendipitous
- serene 
- serial
- serious
- serrated
- serviceable
- seven 
- seventh 
- several 
- severe 
- shabbiest
- shabby 
- shaded
- shadowed
+self-effacing
+self-indulgent
+self-interested
+selfish
+selfless
+self-reliant
+self-respect
+self-satisfied
+sellable
+semiconscious
+semiofficial
+semiprecious
+semiprofessional
+senior
+sensational
+senseless
+sensible
+sensitive
+sensual
+sensuous
+sentimental
+separate
+sequential
+serendipitous
+serene 
+serial
+serious
+serrated
+serviceable
+seven 
+seventh 
+several 
+severe 
+shabbiest
+shabby 
+shaded
+shadowed
 shadowy
 shady 
 shaggy 
