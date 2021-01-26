@@ -23,5 +23,7 @@ def compute (url):
         return 6
     elif (difference_in_years <= 6):
         return 4
-    else:
+    elif (difference_in_years < 6 ):
         return 2
+    else:
+        return -1
