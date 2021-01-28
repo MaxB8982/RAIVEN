@@ -32,8 +32,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
         // The request has been completed successfully
         var responded_stuff = xhr.responseText
         console.log(responded_stuff);
-        var newhtml = popuphtml.replace('puppy', responded_stuff)
-                
+        var newhtml = popuphtml.replace('puppy', responded_stuff)      
       } else {
         // Oh no! There has been an error with the request!
       }
