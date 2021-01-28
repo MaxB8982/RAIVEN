@@ -1,4 +1,21 @@
-var popuphtml = `puppy`
+var popuphtml = 'puppy'
+//`<!DOCTYPE html>
+//<html>
+    //<head>
+        //<style>
+            //button {
+                //height: 100px;
+                //width: 100px;
+                //outline: none;
+            //}
+        //</style>
+    //</head>
+    //<body>
+        //<p>
+            //puppy
+        //</p>
+    //</body>
+//</html>`
 chrome.browserAction.onClicked.addListener(function (tab) {
   //Fired when User Clicks ICON
   console.log("Script exicuted!");
@@ -16,7 +33,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
         var responded_stuff = xhr.responseText
         console.log(responded_stuff);
         var newhtml = popuphtml.replace('puppy', responded_stuff)
-        alert(newhtml)
+                
       } else {
         // Oh no! There has been an error with the request!
       }
