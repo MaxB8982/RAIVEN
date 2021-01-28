@@ -14,7 +14,7 @@ def give_main():
     if (date_grade >= 2):
         final_grade.append(date_grade)
         returned_date_stuff = ("This source got a " + str(date_grade) + " out of 10. Older sources tend to be less reliable since their information may no longer be relevent.")
-    elif (date_grade == int(-1):
+    elif (date_grade == int(-1)):
         returned_date_stuff = ("Sorry, we cannot find the publish date.")
     return(returned_date_stuff)
 
