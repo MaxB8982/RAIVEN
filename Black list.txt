@@ -19,7 +19,6 @@ absent
     abundant
     abusive
     abysmal
-    academic
     acceptable
     accepting
     accessible
@@ -35,8 +34,7 @@ absent
    acerbic
    achievable
    aching
-   acid  
-   acidic
+   acid
    acknowledged
     acoustic
    acrid
@@ -69,7 +67,6 @@ absent
    adoring
    adrenalized
     adroit
-   adult
    advanced
    advantageous
    adventurous
@@ -89,21 +86,16 @@ absent
    aggressive
    agitated
     agonizing
-   agrarian
    agreeable
    aimless
-   airline  
    airsick
    ajar
    alarmed
     alarming
-    alert
     algebraic
     alien
     alienated
     alike
-    alive
-    all  
     all-around
     alleged
     allowable
@@ -111,7 +103,6 @@ absent
     all-too-common
     alluring
     allusive
-    alone
     aloof
     alterable
     alternating
@@ -127,15 +118,12 @@ absent
     amphibian
     amused
     amusing
-    an  
-    ancient
     anecdotal
     anemic
     angelic
     angered
     angry  
-    angular
-    animal  
+    angulure
     animated
     annoyed
     annoying
@@ -151,7 +139,6 @@ absent
     antisocial
     antsy
     anxious
-    any
     apathetic
     apologetic
     apologizing
@@ -174,7 +161,6 @@ absent
     arduous
     arguable
     argumentative
-    arid
     aristocratic
     aromatic
     arresting
@@ -187,7 +173,6 @@ absent
     aspiring
     assertive
     assignable
-    assorted
     assumable
     assured
     assuring
@@ -198,9 +183,7 @@ absent
     astringent
     astronomical
     astute
-     asymmetrical
     athletic
-    atomic
     atrocious
     attachable
     attainable
@@ -210,7 +193,6 @@ absent
     atypical
      audacious
     auspicious
-    authentic
     authoritarian
     authoritative
     autobiographic
@@ -218,42 +200,29 @@ absent
     automatic
      autonomous
      available
-      avant-garde
      avenging
      average
-     avian
-     avid
      avoidable
-     awake
-     awakening
-    aware
-    away
      awesome
     awful
     awkward
     axiomatic
     babbling
-    baby  
     background  
     backhanded
-    bacterial
     bad  
      bad-tempered
     baffled
     baffling
-    bald  
-    balding
     balmy
     bandaged
     banging
     bankable
-    banned
      bantering
     barbaric
     barbarous
     barbequed
     barefooted
-    barking
     barren
     bashful
     basic
@@ -267,11 +236,8 @@ absent
     beckoning
     bedazzled
     bedazzling
-    beefy
-     beeping
     befitting
     befuddled
-    beginning
     belching
     believable
     bellicose
@@ -281,40 +247,28 @@ absent
      beneficial
     benevolent
     benign
-    bent
     berserk
     best
     betrayed
     better
     better off
-    better-late-than-never
      bewildered
     bewildering
     bewitched
     bewitching
-    biased
     biblical
     big  
-    big-city
     bigger
     biggest
     big-headed
     bighearted
     bigoted
-    bilingual
     billable
     billowy
-    binary
-    binding
-    bioactive
-    biodegradable
-    biographical
-    bite-sized
     biting
     bitter  
     bizarre
     black  
-    black-and-blue
     blamable
     blameless
     bland  
@@ -334,14 +288,12 @@ absent
     blissful
     blistering
     bloated
-    blonde  
     bloodied
     blood-red
     bloodthirsty
     bloody  
     blooming
     blossoming
-    blue  
     blundering
     blunt  
     blurred
@@ -359,9 +311,7 @@ absent
     bordering
     bored
     boring
-    born
-    bossy  
-    both  
+    bossy 
     bothered
     bouncing
     bouncy  
@@ -377,16 +327,11 @@ absent
     brawny  
     brazen
     breakable
-    breathable
     breathless
     breathtaking
-    breezy  
     bribable
-    brick  
     brief  
     bright  
-    bright-eyed
-    bright-red
     brilliant
     briny
     brisk  
