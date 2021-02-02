@@ -58,5 +58,5 @@ def compute (url):
             else:
                 return int(-1)
             # other article    
-        elif (x2 == int(-1)):
-            return('NOTHING FOUND!!!!')
+        elif (xCNN == int(-1)):
+            return int(-1)
