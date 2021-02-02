@@ -30,4 +30,4 @@ def grade (url):
   elif grade > 2.5:
     return 2 # F
   else:
-    return 0 # Something messed up
+    return int(-1) # Something messed up
