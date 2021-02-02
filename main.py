@@ -10,9 +10,9 @@ def give_main():
     url = request.query.url
     date_grade = Yearsold.compute(url)
     find_text = Textfinder.isolate(url)
-    final_grade = []
+    final_grade_official = []
     if (date_grade >= 2):
-        final_grade.append(date_grade)
+        final_grade_official.append(date_grade)
         returned_date_stuff = ("This source got a " + str(date_grade) + " out of 10. Older sources tend to be less reliable since their information may no longer be relevent.")
     elif (date_grade == int(-1)):
         returned_date_stuff = ("Sorry, we cannot find the publish date.")

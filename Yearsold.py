@@ -36,11 +36,11 @@ def compute (url):
     # CNN articles
     elif (x == int(-1)):
         #<p class="update-time">Updated 3:51 PM ET, Tue January 19, 2021 <span id="js-pagetop_video_source" class="video__source top_source"></span></p>
-        x2 = webContent.find('<p class="update-time">')
-        if (x2 >= 0):
-            y2 = webContent[x2+25:]
-            w2 = y2.find(" ", 17)
-            date = y2[0:w]
+        xCNN = webContent.find('<p class="update-time">')
+        if (xCNN >= 0):
+            yCNN = webContent[xCNN+25:]
+            wCNN = yCNN.find(" ", 17)
+            date = yCNN[0:wCNN]
             num_date = datetime.strptime(date,'%b %d, %Y')
             now = datetime.now()
             time_difference = relativedelta.relativedelta(now, num_date)
