@@ -1,10 +1,10 @@
 def grade_url(url):
-  if url.count(".com/"):
-    return 3
+  if url.count(".com/" or ".net/"):
+    return 4
   elif url.count(".org/"):
-    return 5
+    return 6
   elif url.count(".edu/"):
-    return 8
+    return 9
   elif url.count(".gov/"):
     return 10
   else:
