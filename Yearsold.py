@@ -3,15 +3,22 @@ from dateutil import relativedelta
 import urllib.request, urllib.error, urllib.parse
 
 def compute (url):
+    #find the exact source in google
     request_str = "https://www.google.com/search?q=inurl:{0}&as_qdr=y25".format(url)
+    #pretend to be firefox so google doesn't block us
     req = urllib.request.Request(url = request_str, headers = {'User-Agent':' Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0'})
+    #open the website
     response = urllib.request.urlopen(req)
+    #record all the stuff on teh website in webContent
     webContent = str(response.read())
+    #search for this class for the publish date
     x = webContent.find('class="f"')
-    # websites with dates in google
+    # websites with dates in google:
     if (x >= 0):
         y = webContent[x+10:]
+        #is the word days in those digits?
         b = y.find('days')
+        #if it isn't...
         if (b == -1):
             w = y.find(" ", 11)
             date = y[0:w]
@@ -31,7 +38,9 @@ def compute (url):
                 return 2
             else:
                 return int(-1)
+        #If there is the word days...
         elif (b >= 0):
+            #give the source and A
             return 10
     # CNN articles
     elif (x == int(-1)):
