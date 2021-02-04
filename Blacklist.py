@@ -12,7 +12,7 @@ def grade (url):
   # Calls upon the body of a website
   body = Textfinder.isolate(url)
   count = 0
-  # Goes through the entire body of the paragraph for each word in blacklist, counting eachtime a blacklisted word pops up
+  # Goes through the entire body of the paragraph for each word in blacklist, counting each time a blacklisted word pops up
   for i in blacklist:
     a = re.split(r'\W', body)
     count += a.count(i)
