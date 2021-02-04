@@ -277,32 +277,18 @@ absent
     blasphemous
     blatant
     blazing
-    bleached
     bleak  
     bleary
-    bleary-eyed
     blessed
-    blind
-    blindfolded
-    blinding
     blissful
     blistering
     bloated
     bloodied
-    blood-red
-    bloodthirsty
-    bloody  
-    blooming
-    blossoming
+    bloodthirst 
     blundering
     blunt  
-    blurred
-    blurry  
-    blushing
     boastful
     bodacious
-    bohemian
-    boiling
     boisterous
     bold  
     bookish
@@ -313,12 +299,9 @@ absent
     boring
     bossy 
     bothered
-    bouncing
-    bouncy  
     boundless
     bountiful
     boyish
-    braided
     brainless
     brainy  
     brash  
@@ -326,71 +309,37 @@ absent
     brave  
     brawny  
     brazen
-    breakable
-    breathless
-    breathtaking
     bribable
     brief  
     bright  
     brilliant
     briny
     brisk  
-    bristly
-    broad  
-    broken
-    broken-hearted
+    bristly  
     bronchial
-    bronze  
-    bronzed
     brooding
-    brown  
     bruised
-    brunette
     brutal
     brutish
-    bubbly  
-    budget  
-    built-in
+    bubbly    
     bulky  
     bumpy  
     bungling
     buoyant
     bureaucratic
     burly  
-    burnable
-    burning
-    bushy  
     busiest
     business  
     bustling
-     busy  
     buzzing
     cackling
     caged
     cagey
-    calculable
-    calculated
-    calculating
     callous
-    calm  
-    calming
     camouflaged
-    cancelled
-    cancerous
     candid
     cantankerous
-    capable
     capricious
-    captivated
-    captivating
-    captive
-    carefree
-    careful
-    careless
-    caring
-    carnivorous
-    carpeted
-    carsick
     casual
     catastrophic
     catatonic
@@ -402,8 +351,6 @@ absent
     ceaseless
     celebrated
     celestial
-    centered
-    central
     cerebral
     ceremonial
     certain  
@@ -411,7 +358,6 @@ absent
     certified
     challenged
     challenging
-    chance  
     changeable
     changing
     chanting
@@ -431,12 +377,8 @@ absent
     cheering
     cheerless
     cheery  
-    chemical  
     chewable
-    chewy
-    chic
-    chicken  
-    chief
+    chewy 
     childish
     childlike
     chilling
@@ -447,11 +389,7 @@ absent
  choppy 
  chronological
  chubby 
- chuckling
- chunky 
- cinematic
- circling
- circular
+ chuckling 
  circumstantial
  civil
  civilian
@@ -462,13 +400,9 @@ absent
  clanging
  clapping
  clashing
- classic
- classical
  classifiable
  classified
  classy 
- clean 
- cleanable
  clear 
  cleared
  clearheaded
@@ -486,7 +420,6 @@ absent
  closed
  close-minded
  cloudless
- cloudy 
  clownish
  clueless
  clumsy 
@@ -500,8 +433,7 @@ absent
  cognitive
  coherent
  cohesive
- coincidental
- cold 
+ coincidental 
  coldhearted
  collaborative
  collapsed
@@ -529,7 +461,6 @@ absent
  communicable
  communicative
  communist
- compact
  comparable
  comparative
  compassionate
@@ -548,8 +479,6 @@ absent
  comprehensive
  compulsive
  compulsory
- computer 
- computerized
  concealable
  concealed
  conceited
@@ -632,7 +561,6 @@ absent
  convoluted
  convulsive
  cooing
- cooked
  cool 
  coolest
  cooperative
@@ -640,24 +568,18 @@ absent
  copious
  coquettish
  cordial
- corner 
  cornered
- corny 
  corporate
  corpulent
- correct
  correctable
  corrective
  corresponding
- corrosive
  corrupt
  corrupting
  corruptive
- cosmetic
  cosmic
  costly
  cottony
- coughing
  courageous
  courteous
  covert
@@ -669,7 +591,6 @@ absent
  crabby 
  cracked
  crackling
- crafty 
  craggy
  crammed
  cramped
@@ -678,16 +599,13 @@ absent
  crass
  craven
  crawling
- crazy 
  creaking
  creaky 
  creamy 
- creative
  credible
  creeping
  creepy 
  crestfallen
- criminal
  crippled
  crippling
  crisp 
@@ -732,7 +650,6 @@ absent
  curved
  curvy
  customary
- cut
  cute 
  cutting
  cylindrical
@@ -749,20 +666,15 @@ absent
  dangerous
  dapper
  daring
- dark 
  darkened
  dashing
  daughterly
  daunting
  dawdling
- day 
  dazed
  dazzling
- dead
  deadly 
  deadpan
- deaf
- deafening
  dear 
  debatable
  debonair
@@ -784,7 +696,6 @@ absent
  decreasing
  decrepit
  dedicated
- deep 
  deepening
  defeated
  defective
@@ -804,7 +715,6 @@ absent
  delectable
  deliberate
  deliberative
- delicate
  delicious
  delighted
  delightful
@@ -833,9 +743,7 @@ absent
  derivative
  derogative
  derogatory
- descriptive
  deserted
- designer 
  desirable
  desirous
  desolate
