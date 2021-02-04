@@ -40,13 +40,13 @@ def give_main():
     #if the url ending grade is more or equal to 2...
     if (tld_grade >= 2):
         #returned_url_stuff = string
-        returned_url_stuff = (" This source got a " + str(tld_grade) + " out of 10 for it's url ending. Different url endings haev varying degrees of credibility.")
+        returned_url_stuff = ("This source got a " + str(tld_grade) + " out of 10 for it's url ending. Different url endings haev varying degrees of credibility.")
     #if the bias grading returns and error...
     elif (tld_grade == int(-1)):
         #returned_url_stuff = error string
         returned_url_stuff = ("Sorry, an error occurred in the grading process for the url ending.")
     #send this back to the google extension:
-    return(returned_date_stuff + returned_url_stuff)
+    return("{0} {1}".format(returned_date_stuff, returned_url_stuff))
 
 #this is how the google extension accesses the stuff returned by main.py
 run(host='localhost', port=8080, debug=True)
