@@ -39,14 +39,20 @@ def give_main():
         #returned_blacklist_stuff = (" Sorry, an error occurred in the grading process for bias.")
     #if the url ending grade is more or equal to 2...
     if (tld_grade >= 2):
+        final_grade.append(tld_grade)
         #returned_url_stuff = string
         returned_url_stuff = ("This source got a " + str(tld_grade) + " out of 10 for it's url ending. Different url endings have varying degrees of credibility.")
-    #if the bias grading returns and error...
+    #if the bias grading returns an error...
     elif (tld_grade == int(-1)):
         #returned_url_stuff = error string
         returned_url_stuff = ("Sorry, an error occurred in the grading process for the url ending.")
+    #do math to figure out the total score
+    num_of_stuff = len(final_grade)
+    all_stuff_added = sum(final_grade)
+    Total_score = all_stuff_added/num_of_stuff
+    Total_score_string = ("The total score for this source is " + str(Total_score) + ".")
     #send returned_date_stuff and returned_url_stuff back to the google extension
-    return("{0} {1}".format(returned_date_stuff, returned_url_stuff))
+    return("{0} {1} {2}".format(returned_date_stuff, returned_url_stuff, Total_score_string))
 
 #this is how the google extension accesses the stuff returned by main.py
 run(host='localhost', port=8080, debug=True)
