@@ -1,6 +1,24 @@
 from datetime import datetime
 from dateutil import relativedelta
 import urllib.request, urllib.error, urllib.parse
+import urlchopper
+ 
+def computeGradeBased(date):
+    now = datetime.now()
+    time_difference = relativedelta.relativedelta(now, date)
+    difference_in_years = time_difference.years
+    if (difference_in_years <= 0):
+        return 10
+    elif (difference_in_years <= 2):
+        return 8
+    elif (difference_in_years <= 4):
+        return 6
+    elif (difference_in_years <= 6):
+        return 4
+    elif (difference_in_years < 6 ):
+        return 2
+    else:
+        return int(-1)
 
 def compute (url):
     #find the exact source in google
@@ -23,21 +41,7 @@ def compute (url):
             w = y.find(" ", 11)
             date = y[0:w]
             num_date = datetime.strptime(date,'%b %d, %Y')
-            now = datetime.now()
-            time_difference = relativedelta.relativedelta(now, num_date)
-            difference_in_years = time_difference.years
-            if (difference_in_years <= 0):
-                return 10
-            elif (difference_in_years <= 2):
-                return 8
-            elif (difference_in_years <= 4):
-                return 6
-            elif (difference_in_years <= 6):
-                return 4
-            elif (difference_in_years < 6 ):
-                return 2
-            else:
-                return int(-1)
+            return computeGradeBased(num_date)
         #If there is the word days...
         elif (b >= 0):
             #give the source and A
@@ -45,27 +49,11 @@ def compute (url):
     # CNN articles
     elif (x == int(-1)):
         #<p class="update-time">Updated 3:51 PM ET, Tue January 19, 2021 <span id="js-pagetop_video_source" class="video__source top_source"></span></p>
-        xCNN = webContent.find('<p class="update-time">')
-        if (xCNN >= 0):
-            yCNN = webContent[xCNN+25:]
-            wCNN = yCNN.find(" ", 17)
-            date = yCNN[0:wCNN]
-            num_date = datetime.strptime(date,'%b %d, %Y')
-            now = datetime.now()
-            time_difference = relativedelta.relativedelta(now, num_date)
-            difference_in_years = time_difference.years
-            if (difference_in_years <= 0):
-                return 10
-            elif (difference_in_years <= 2):
-                return 8
-            elif (difference_in_years <= 4):
-                return 6
-            elif (difference_in_years <= 6):
-                return 4
-            elif (difference_in_years < 6 ):
-                return 2
-            else:
-                return int(-1)
-            # other article    
-        elif (xCNN == int(-1)):
+        matches = urlchopper.extract_date(url)
+        if len(matches) == 3:
+           date = datetime.date(int(matches[0], matches [1], matches [2])) 
+           time = datetime.time(0, 0, 0)
+           datetime2 = datetime.combine(date, time)
+           return computeGradeBased(datetime2)
+        elif len(matches) != 3:
             return int(-1)
