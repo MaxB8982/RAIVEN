@@ -1,7 +1,7 @@
 var query = { active: true, currentWindow: true };
 chrome.tabs.query(query, function (tab) {
     var puppy = document.getElementById('gif')
-    var texty = documet.getElementById('text')
+    var texty = document.getElementById('text')
     const xhr = new XMLHttpRequest(),
     method = "GET",
     url = "http://localhost:8080/?url=" + tab[0].url ;
@@ -16,7 +16,9 @@ chrome.tabs.query(query, function (tab) {
         var responded_stuff = xhr.responseText
         console.log(responded_stuff);
         puppy.remove()
-        texty.innerText = responded_stuff    
+        texty.innerText = responded_stuff
+        texty.style.width = "250px"
+        texty.style.wordWrap = "break-word"    
       } else {
         // Oh no! There has been an error with the request!
       }

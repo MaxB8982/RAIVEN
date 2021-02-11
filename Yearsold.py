@@ -44,26 +44,28 @@ def compute (url):
     if (x >= 0):
         #everything after ten places from x = y
         y = webContent[x+10:]
-        #is the word days in those digits?
-        b = y.find('days')
-        #if it isn't...
-        if (b == -1):
+        end = y.find('</')
+        try:
+            datetimestr = y[:end]
+            mins = datetimestr.find('min')
+            hours = datetimestr.find('hour')
+            days = datetimestr.find('day')
+            if mins >= 0 or hours >= 0 or days >= 0:
+                return 10
             w = y.find(" ", 11)
             date = y[0:w]
             num_date = datetime.strptime(date,'%b %d, %Y')
             return computeGradeBased(num_date)
-        #If there is the word days...
-        elif (b >= 0):
-            #give the source and A
-            return 10
+        except:
+            pass
+
     # CNN articles
-    elif (x == int(-1)):
         #<p class="update-time">Updated 3:51 PM ET, Tue January 19, 2021 <span id="js-pagetop_video_source" class="video__source top_source"></span></p>
-        matches = urlchopper.extract_date(url)
-        if len(matches) == 3:
-           date = datetime.date(int(matches[0], matches [1], matches [2])) 
-           time = datetime.time(0, 0, 0)
-           datetime2 = datetime.combine(date, time)
-           return computeGradeBased(datetime2)
-        elif len(matches) != 3:
-            return int(-1)
+    matches = urlchopper.extract_date(url)
+    if len(matches) == 3:
+        date = datetime.date(int(matches[0], matches [1], matches [2])) 
+        time = datetime.time(0, 0, 0)
+        datetime2 = datetime.combine(date, time)
+        return computeGradeBased(datetime2)
+    elif len(matches) != 3:
+        return int(-1)
