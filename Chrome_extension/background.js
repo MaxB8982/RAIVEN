@@ -1,21 +1,5 @@
 var popuphtml = 'puppy'
-//`<!DOCTYPE html>
-//<html>
-    //<head>
-        //<style>
-            //button {
-                //height: 100px;
-                //width: 100px;
-                //outline: none;
-            //}
-        //</style>
-    //</head>
-    //<body>
-        //<p>
-            //puppy
-        //</p>
-    //</body>
-//</html>`
+
 chrome.browserAction.onClicked.addListener(function (tab) {
   //Fired when User Clicks ICON
   console.log("Script exicuted!");

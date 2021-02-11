@@ -4,20 +4,29 @@ import urllib.request, urllib.error, urllib.parse
 import urlchopper
  
 def computeGradeBased(date):
+    #THE PRESENT
     now = datetime.now()
+    #what's the time difference between now and the date the article was published.
     time_difference = relativedelta.relativedelta(now, date)
+    #use only the difference in years
     difference_in_years = time_difference.years
     if (difference_in_years <= 0):
+        #A
         return 10
     elif (difference_in_years <= 2):
+        #B
         return 8
     elif (difference_in_years <= 4):
+        #C
         return 6
     elif (difference_in_years <= 6):
+        #D
         return 4
     elif (difference_in_years < 6 ):
+        #F
         return 2
     else:
+        #There was an error
         return int(-1)
 
 def compute (url):
@@ -27,12 +36,13 @@ def compute (url):
     req = urllib.request.Request(url = request_str, headers = {'User-Agent':' Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0'})
     #open the website
     response = urllib.request.urlopen(req)
-    #record all the stuff on teh website in webContent
+    #record all the stuff on the website in webContent
     webContent = str(response.read())
     #search for this class for the publish date
     x = webContent.find('class="f"')
     # websites with dates in google:
     if (x >= 0):
+        #everything after ten places from x = y
         y = webContent[x+10:]
         #is the word days in those digits?
         b = y.find('days')

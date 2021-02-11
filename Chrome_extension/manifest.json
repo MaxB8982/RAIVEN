@@ -8,6 +8,7 @@
         "persistent": false
     },
     "browser_action": {
+        "default_popup": "popup.html",
         "default_icon": {
             "16": "images/RAIVEN16px.png"
         }

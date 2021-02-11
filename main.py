@@ -39,6 +39,7 @@ def give_main():
         #returned_blacklist_stuff = (" Sorry, an error occurred in the grading process for bias.")
     #if the url ending grade is more or equal to 2...
     if (tld_grade >= 2):
+        #add tld_grade to final_grade list
         final_grade.append(tld_grade)
         #returned_url_stuff = string
         returned_url_stuff = ("This source got a " + str(tld_grade) + " out of 10 for it's url ending. Different url endings have varying degrees of credibility.")
